@@ -32,7 +32,7 @@ Module.register("MMM-WeatherOrNot",{
 			icons: "",                  // Iconvault, Climacons or Climacons Animated
 			animationSpeed: 3000,
 			updateInterval: 15 * 60 * 1000,
-			dataMode: "both",
+			dataMode: "",
 	},
 
 
