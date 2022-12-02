@@ -50,6 +50,7 @@
       languages: "en",                          // See Languages list
       tempUnits: "F",                           // F or C
       font: "Tahoma",                           // See Font list
+	  dataMode: "Both"							// Can be Forecast, Current, or Both
       textColor: "#ffffff",                     // Hex color codes.
       htColor: "#ffffff",                       // high temp color. Hex color codes.
       ltColor: "#00dfff",                       // low temp color. Hex color codes.
